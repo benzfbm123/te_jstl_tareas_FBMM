@@ -17,7 +17,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSTL - WILDER QUISPE CONDORI</title>
+        <title>JSTL - FRANKLIN BENZ MAMANI MAMANI</title>
     </head>
     <body>
         <h1>Lista de tareas</h1>
